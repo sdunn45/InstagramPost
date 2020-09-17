@@ -1,0 +1,62 @@
+div.header-right {
+    position: relative;
+    left: 1800px;
+    top: -55px;
+
+}
+.book {
+    position: relative;
+    left: 1800px;
+    top: -165px
+}
+.ReactionButtons {
+    position: relative;
+    left: 25px;
+    top:25px;    
+}
+.heart {
+    position: relative;
+    left: 25px;
+    top:25px;
+}
+.comment{
+    position: relative;
+    left: 125px;
+    top:-40px;
+}
+.plane{
+    position: relative;
+    left: 220px;
+    top:-100px;
+}
+.likesCaption{
+    position:relative;
+    left: 50px;
+    top: -100px;
+}
+.header-left {
+    position: relative;
+    left: 50px;
+}
+.logo {
+    position:relative;
+    top: 120px;
+}
+.profilename {
+    position:relative;
+    left: 60px;
+    top: 35px
+}
+.locationplace {
+    position:relative;
+    top:-20px;
+    font-size:150%;
+}
+.border {
+    background-color: white;
+    width: 1920px;
+    border: 500px solid black;
+    
+    
+    }
+
